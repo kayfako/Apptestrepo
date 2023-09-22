@@ -1,5 +1,10 @@
+<!DOCTYPE html>
 <html>
+<head>
+<title>Welcome to my page</title>
+</head>
 <body>
-<h2>Hello World!</h2>
+<h1>My Hooyah... you are here</h1>
+<p>Team DevOps.</p>
 </body>
 </html>
